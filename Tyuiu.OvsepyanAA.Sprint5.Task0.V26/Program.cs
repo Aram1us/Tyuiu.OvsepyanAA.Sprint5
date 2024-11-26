@@ -1,5 +1,4 @@
-﻿
-using Tyuiu.OvsepyanAA.Sprint5.Task0.V26.Lib;
+﻿using Tyuiu.OvsepyanAA.Sprint5.Task0.V26.Lib;
 
 namespace Tyuiu.OvsepyanAA.Sprint5.Task0.V26
 {
