@@ -19,13 +19,13 @@ namespace Tyuiu.OvsepyanAA.Sprint5.Task7.V20
             Console.WriteLine("* Условие:          *\n");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Исходные данные:                                                        *");
-            Console.Write("* File = " + Path.Combine("C:", "DataSprint5", "InPutDataFileTask7V20.txt"));
+            Console.Write("* File = " + Path.Combine("D:", "DataSprint5", "InPutDataFileTask7V20.txt"));
             string input = Console.ReadLine();
 
             Console.WriteLine("***************************************************************************");
 
             { //code
-                result = ds.LoadDataAndSave(Path.Combine("C:", "DataSprint5", "InPutDataFileTask7V20.txt"));
+                result = ds.LoadDataAndSave(Path.Combine("D:", "DataSprint5", "InPutDataFileTask7V20.txt"));
             }
             Console.WriteLine("* Результат:                                                              *");
             Console.WriteLine("***************************************************************************");
